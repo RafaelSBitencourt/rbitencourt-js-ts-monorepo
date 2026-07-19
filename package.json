@@ -1,6 +1,7 @@
 {
   "name": "@RafaelSBitencourt/rbitencourt-js-ts-monorepo",
   "private": true,
+  "packageManager": "npm@11.11.0",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -15,12 +16,6 @@
   },
   "engines": {
     "node": ">=18"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "npm",
-      "version": "11.11.0"
-    }
   },
   "workspaces": [
     "apps/*",
