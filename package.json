@@ -1,5 +1,5 @@
 {
-  "name": "rbitencourt-js-ts-monorepo",
+  "name": "@RafaelSBitencourt/rbitencourt-js-ts-monorepo",
   "private": true,
   "scripts": {
     "build": "turbo run build",
