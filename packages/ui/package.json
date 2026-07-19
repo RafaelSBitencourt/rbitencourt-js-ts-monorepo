@@ -1,7 +1,10 @@
 {
-  "name": "@repo/ui",
+  "name": "@RafaelSBitencourt/ui",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "exports": {
     "./*": "./src/*.tsx"
   },
